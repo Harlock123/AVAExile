@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAExile/AVAExile.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAExile.Tests/AVAExile.Tests.csproj" />
+  </Folder>
+</Solution>
